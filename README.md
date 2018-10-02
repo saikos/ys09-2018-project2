@@ -9,7 +9,7 @@
 
 |Name|Presentation|
 |----|-----|
-|Μάρκος Βαρβαγιάννης | ... |
+|Μάρκος Βαρβαγιάννης | [PDF](progressive_web_apps_with_VueJS.pdf) |
 |Βαγγέλης Γκαραγκάνης | [PDF](ux.pdf) |
 |Δήμητρα Μαυροφοράκη | [PDF](reverse_proxy.pdf) |
 |Γιώργος Μίχας | ... |
